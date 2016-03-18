@@ -1,0 +1,11 @@
+C:\Users\Chris\Desktop\SteamApi\SteamApi\bin\Debug\SteamApi.exe.config
+C:\Users\Chris\Desktop\SteamApi\SteamApi\bin\Debug\SteamApi.exe
+C:\Users\Chris\Desktop\SteamApi\SteamApi\bin\Debug\SteamApi.pdb
+C:\Users\Chris\Desktop\SteamApi\SteamApi\obj\Debug\SteamApi.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\SteamApi\SteamApi\obj\Debug\SteamApi.Form1.resources
+C:\Users\Chris\Desktop\SteamApi\SteamApi\obj\Debug\SteamApi.Properties.Resources.resources
+C:\Users\Chris\Desktop\SteamApi\SteamApi\obj\Debug\SteamApi.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\SteamApi\SteamApi\obj\Debug\SteamApi.exe
+C:\Users\Chris\Desktop\SteamApi\SteamApi\obj\Debug\SteamApi.pdb
+C:\Users\Chris\Desktop\SteamApi\SteamApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\Desktop\SteamApi\SteamApi\bin\Debug\Newtonsoft.Json.xml
